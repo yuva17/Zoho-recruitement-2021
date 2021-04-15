@@ -1,0 +1,16 @@
+class pattern
+{
+// Function to print given
+public static void main (String[] args)
+{
+    String str = "WATER";
+    int size=str.length();
+    int midlength=size/2;
+    string firstletter=str.substring(midlength,size);
+    string secondletter=str.subtring(0,midlength);
+    string finalstring=firstletter+secondletter;
+    for (int i = 0; i <= len; i++)
+   {
+                System.out.print(finalstring.substring(0,i));
+} 
+}}
